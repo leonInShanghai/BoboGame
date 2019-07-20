@@ -1,6 +1,8 @@
 # BoboGame
-波波小战僵尸（仿植物大战僵尸）
+波波小战僵尸
 
-<div align="center">
+<h5>模仿 PopCap Games 公司的《植物大战僵尸》一款益智策略类塔防游戏。</h5>
+
+<div  style="padding:5px 0 5px 0;border:solid 1px red;text-align:center">
  <img src="https://github.com/leonInShanghai/BoboGame/blob/master/otherPic/1563615137529.gif?raw=true">
 </div>
