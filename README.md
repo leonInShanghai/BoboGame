@@ -5,5 +5,5 @@
 
 <div margin-top="5px" margin-bottom="5px" align="center">
  <img src="https://github.com/leonInShanghai/BoboGame/blob/master/otherPic/1563615137529.gif?raw=true"
- style="border:solid 1px red;">
+ border="solid 1px red">
 </div>
